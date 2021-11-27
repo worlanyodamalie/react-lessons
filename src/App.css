@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  display: flex;
+    width: 16rem;
+    background: white;
+    box-shadow: 0px 0.8px 2px rgb(0 0 0 / 3%), 0px 2.7px 6.7px rgb(0 0 0 / 5%), 0px 12px 30px rgb(0 0 0 / 8%);
+    padding: 2rem;
+    border-radius: 1rem;
+    margin:auto;
+}
+
+.sculpCard{
+  width: 25rem;
+  background: whitesmoke;
+  padding: 1.5rem;
+  border-radius: 2rem;
+  margin: auto;
+  margin-top: 2rem;
+  box-shadow: 0px 0.8px 2px rgb(0 0 0 / 3%), 0px 2.7px 6.7px rgb(0 0 0 / 5%), 0px 12px 30px rgb(0 0 0 / 8%);
+}
